@@ -59,9 +59,9 @@ Compare the original, eroded, and dilated images.
 
 ## Developed By
 
-**Name:** KEERTHANA G
+**Name:** DHARSHINI V
 
-**Register No:** 212225040184
+**Register No:** 212225100010
 
 ## Output
 
